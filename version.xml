@@ -3,10 +3,10 @@
     <channel>
         <title>Axon Motoristas</title>
         <item>
-            <title>Versão 1.8.1 (29)</title>
-            <description>Correção de bugs</description>
-            <pubDate>Thu, 29 Feb 2024 12:00:00 -0300</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=br.log.axon.app_motorista" sparkle:version="1.8.1" sparkle:os="android" />
+            <title>Versão 1.8.2 (29)</title>
+            <description>Correção da tela de mensagens</description>
+            <pubDate>Fri, 01 Mar 2024 12:00:00 -0300</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=br.log.axon.app_motorista" sparkle:version="1.8.2" sparkle:os="android" />
         </item>
     </channel>
 </rss>
