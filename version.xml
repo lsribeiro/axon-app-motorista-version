@@ -3,9 +3,9 @@
     <channel>
         <title>Axon Motoristas</title>
         <item>
-            <title>Versão 1.8.3 (31)</title>
-            <description>Finalização da v1</description>
-            <pubDate>Fri, 06 Mar 2024 14:00:00 -0300</pubDate>
+            <title>Versão 1.8.4 (32)</title>
+            <description>Mudanças na tela de checklist</description>
+            <pubDate>Tue, 12 Mar 2024 14:00:00 -0300</pubDate>
             <enclosure url="https://play.google.com/store/apps/details?id=br.log.axon.app_motorista" sparkle:version="1.8.3" sparkle:os="android" />
         </item>
     </channel>
